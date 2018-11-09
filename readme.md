@@ -28,7 +28,6 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
 
-If You need any DevOps Related suggestions please contact me @ +91-9677857718
 
 ## 🙌 Contribution
 
